@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+  My page
+	</title>
+  <style>header h2{
+	font-family: arial, new times roman, san-seriff;
+}
+img.me{
+width: 70px;
+height: 70px;
+margin-bottom: 10px;
+}	
+div{
+	display: inline-grid;
+}
+img{
+	margin-bottom: 100px;
+	margin-right: 100px;
+}
+footer{
+	font-weight: lighter;
+	font-family: arial, new times roman, san-seriff;
+	margin-right: 500px;
+	margin-bottom: 50px;
+}
+</style>
+</head>
+<body>
+<section>
+	<img src="https://i.imgur.com/Jn57fYT.jpg" alt="book1" class="me">
+</section>
+<header>
+	<h2 align="center">INTRODUCTION TO OUR<br/>GALLERY</h2>
+</header>
+<div>
+<img src="https://i.imgur.com/u8QUwla.jpg" alt="book2"  width="500px" height="200px" class="paul">
+<img src="https://i.imgur.com/beNtwwI.jpg" alt="book3" width="500px" height="200px" class="paul">
+</div>
+<div>
+<img src="https://i.imgur.com/beNtwwI.jpg" alt="book4"  width="500px" height="200px" class="paul">
+<img src="https://i.imgur.com/Jn57fYT.jpg" alt="book5"  width="500px" height="200px" class="paul">
+<footer align="center">
+	All right reserved
+</footer>
+</div>
+</body>
+</html> 
